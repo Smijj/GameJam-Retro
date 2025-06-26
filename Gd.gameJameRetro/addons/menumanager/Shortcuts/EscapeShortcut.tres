@@ -1,0 +1,7 @@
+[gd_resource type="Shortcut" load_steps=2 format=3 uid="uid://cdptiwgk08u6f"]
+
+[sub_resource type="InputEventAction" id="InputEventAction_nafi7"]
+action = &"Escape"
+
+[resource]
+events = [SubResource("InputEventAction_nafi7")]
